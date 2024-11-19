@@ -1,4 +1,4 @@
-function skillsmember() {
+function skillsMember() {
     var member = document.getElementById("member").value;
     var memberErr = document.getElementById("memberErr");
     var memberPattern = /^[0-9]+$/;
